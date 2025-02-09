@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.2.10a2](https://github.com/OpenVoiceOS/ovos-skill-local-media/tree/0.2.10a2) (2025-02-09)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-local-media/compare/0.2.10a1...0.2.10a2)
+
+**Merged pull requests:**
+
+- added italian translation [\#35](https://github.com/OpenVoiceOS/ovos-skill-local-media/pull/35) ([gitlocalize-app[bot]](https://github.com/apps/gitlocalize-app))
+
 ## [0.2.10a1](https://github.com/OpenVoiceOS/ovos-skill-local-media/tree/0.2.10a1) (2025-01-25)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-local-media/compare/V0.2.9...0.2.10a1)
