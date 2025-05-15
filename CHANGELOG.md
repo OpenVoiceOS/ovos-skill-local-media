@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.2.11a1](https://github.com/OpenVoiceOS/ovos-skill-local-media/tree/0.2.11a1) (2025-05-15)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-local-media/compare/0.2.10a2...0.2.11a1)
+
+**Merged pull requests:**
+
+- fix: standardize urls / skill-id / pypi-name [\#38](https://github.com/OpenVoiceOS/ovos-skill-local-media/pull/38) ([JarbasAl](https://github.com/JarbasAl))
+
 ## [0.2.10a2](https://github.com/OpenVoiceOS/ovos-skill-local-media/tree/0.2.10a2) (2025-02-09)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-local-media/compare/0.2.10a1...0.2.10a2)
