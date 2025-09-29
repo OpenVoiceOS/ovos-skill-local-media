@@ -1,0 +1,38 @@
+{
+  "open.file.browser.intent": [
+    "(abra|mostre) (|meu) navegador de arquivos (|unidade)",
+    "(abrir|mostrar|iniciar) navegador de arquivos",
+    "(abra|mostre|inicie) aplicativo navegador de arquivos",
+    "(abrir|mostrar) (|meu) (usb|pendrive)",
+    "(abrir|mostrar|iniciar) navegador usb",
+    "(abra|mostre|inicie) aplicativo de navegador USB"
+  ],
+  "/intents/open.file.browser.intent": [
+    "mostrar meu usb",
+    "iniciar o navegador de arquivos",
+    "abrir unidade do navegador de arquivos",
+    "mostre unidade USB",
+    "inicie navegador usb",
+    "mostre minha unidade do navegador de arquivos",
+    "inicie aplicativo de navegador USB",
+    "mostre aplicativo de navegador USB",
+    "abrir aplicativo navegador de arquivos",
+    "abrir meu usb",
+    "abrir meu pendrive",
+    "mostrar meu navegador de arquivos",
+    "abrir navegador de arquivos",
+    "mostre usb",
+    "mostre aplicativo do navegador de arquivos",
+    "abra o aplicativo do navegador USB",
+    "mostre unidade do navegador de arquivos",
+    "mostrar navegador de arquivos",
+    "mostre meu pendrive",
+    "abra o navegador usb",
+    "mostrar navegador usb",
+    "usb aberto",
+    "abrir meu navegador de arquivos",
+    "abrir unidade USB",
+    "abrir meu navegador de arquivos",
+    "iniciar aplicativo navegador de arquivos"
+  ]
+}
