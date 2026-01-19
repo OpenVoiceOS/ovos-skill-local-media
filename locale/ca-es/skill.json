@@ -1,7 +1,10 @@
 {
   "skill_id": "ovos-skill-local-media.openvoiceos",
   "source": "https://github.com/OpenVoiceOS/ovos-skill-local-media",
+  "author": "OpenVoiceOS",
   "name": "Local Media",
+  "license": "apache-2.0",
+  "description": "Navegador de fitxers multimèdia locals per a Open Voice OS",
   "examples": [
     "inicia aplicació de navegador de fitxers",
     "mostra la unitat usb",
@@ -31,12 +34,12 @@
     "inicia l'aplicació del navegador usb"
   ],
   "tags": [
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
+    "usb",
+    "local",
+    "dia a dia",
+    "navegador",
+    "navegador-de-fitxers",
+    "gestor",
+    "fitxer"
   ]
 }
