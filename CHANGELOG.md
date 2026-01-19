@@ -1,16 +1,25 @@
 # Changelog
 
-## [0.2.12a1](https://github.com/OpenVoiceOS/ovos-skill-local-media/tree/0.2.12a1) (2025-06-08)
+## [0.2.13a2](https://github.com/OpenVoiceOS/ovos-skill-local-media/tree/0.2.13a2) (2026-01-19)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-local-media/compare/V0.2.11...0.2.12a1)
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-local-media/compare/0.2.13a1...0.2.13a2)
 
 **Merged pull requests:**
 
-- wokshop 7.X.X [\#41](https://github.com/OpenVoiceOS/ovos-skill-local-media/pull/41) ([JarbasAl](https://github.com/JarbasAl))
+- gl-es/translate [\#46](https://github.com/OpenVoiceOS/ovos-skill-local-media/pull/46) ([gitlocalize-app[bot]](https://github.com/apps/gitlocalize-app))
+- ca-es/translate [\#45](https://github.com/OpenVoiceOS/ovos-skill-local-media/pull/45) ([gitlocalize-app[bot]](https://github.com/apps/gitlocalize-app))
 
-## [V0.2.11](https://github.com/OpenVoiceOS/ovos-skill-local-media/tree/V0.2.11) (2025-05-15)
+## [0.2.13a1](https://github.com/OpenVoiceOS/ovos-skill-local-media/tree/0.2.13a1) (2025-09-29)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-local-media/compare/0.2.11...V0.2.11)
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-local-media/compare/V0.2.12...0.2.13a1)
+
+**Merged pull requests:**
+
+- Add pt-BR [\#43](https://github.com/OpenVoiceOS/ovos-skill-local-media/pull/43) ([gitlocalize-app[bot]](https://github.com/apps/gitlocalize-app))
+
+## [V0.2.12](https://github.com/OpenVoiceOS/ovos-skill-local-media/tree/V0.2.12) (2025-06-08)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-local-media/compare/0.2.12...V0.2.12)
 
 
 
