@@ -1,0 +1,42 @@
+{
+  "skill_id": "ovos-skill-local-media.openvoiceos",
+  "source": "https://github.com/OpenVoiceOS/ovos-skill-local-media",
+  "name": "Local Media",
+  "examples": [
+    "inicia aplicació de navegador de fitxers",
+    "mostra la unitat usb",
+    "mostra el navegador de fitxers",
+    "mostra la unitat del navegador de fitxers",
+    "obre el navegador usb",
+    "mostra el navegador usb",
+    "obre la unitat usb",
+    "mostra l'usb",
+    "mostra l'usb",
+    "obre la unitat del navegador de fitxers",
+    "obre la unitat del navegador de fitxers",
+    "obre l'aplicació del navegador de fitxers",
+    "mostra la unitat usb",
+    "inicia el navegador de fitxers",
+    "mostra el navegador de fitxers",
+    "mostra l'aplicació del navegador de fitxers",
+    "obre el navegador de fitxers",
+    "obre l'aplicació del navegador usb",
+    "inicia el navegador usb",
+    "obre el navegador de fitxers",
+    "mostra l'aplicació del navegador usb",
+    "obre el meu usb",
+    "obre la meva unitat usb",
+    "mostra la unitat del navegador de fitxers",
+    "obre l'usb",
+    "inicia l'aplicació del navegador usb"
+  ],
+  "tags": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}
