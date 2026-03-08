@@ -1,0 +1,25 @@
+{
+    "skill_id": "ovos-skill-local-media.openvoiceos",
+    "source": "https://github.com/OpenVoiceOS/ovos-skill-local-media",
+    "author": "OpenVoiceOS",
+    "name": "Médias locaux",
+    "license": "apache-2.0",
+    "description": "Navigateur de fichiers multimédias locaux pour Open Voice OS.",
+    "examples": [
+        "Démarre le navigateur de fichiers.",
+        "Affiche ma clé USB.",
+        "Affiche mon navigateur de fichiers.",
+        "Affiche le lecteur USB.",
+        "Ouvre le navigateur USB.",
+        "Ouvre le lecteur USB.",
+        "Ouvre mon navigateur de fichiers."
+    ],
+    "tags": [
+        "usb",
+        "local",
+        "quotidien",
+        "navigateur",
+        "gestionnaire",
+        "fichiers"
+    ]
+}
