@@ -4,15 +4,12 @@
     "author": "OpenVoiceOS",
     "name": "Médias locaux",
     "license": "apache-2.0",
-    "description": "Navigateur de fichiers multimédias locaux pour Open Voice OS.",
+    "description": "Parcourez vos fichiers audio et vidéo locaux avec l'explorateur multimédia d'OpenVoiceOS.",
     "examples": [
-        "Démarre le navigateur de fichiers.",
+        "Ouvre l'explorateur de fichiers.",
         "Affiche ma clé USB.",
-        "Affiche mon navigateur de fichiers.",
-        "Affiche le lecteur USB.",
-        "Ouvre le navigateur USB.",
-        "Ouvre le lecteur USB.",
-        "Ouvre mon navigateur de fichiers."
+        "Lance le navigateur USB.",
+        "Ouvre mon explorateur de fichiers."
     ],
     "tags": [
         "usb",
