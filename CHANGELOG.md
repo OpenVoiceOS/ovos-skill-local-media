@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.2.14a1](https://github.com/OpenVoiceOS/ovos-skill-local-media/tree/0.2.14a1) (2026-03-24)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-local-media/compare/0.2.13a3...0.2.14a1)
+
+**Merged pull requests:**
+
+- fix: rename bare lang code locale directories [\#49](https://github.com/OpenVoiceOS/ovos-skill-local-media/pull/49) ([ovos-localize[bot]](https://github.com/apps/ovos-localize))
+- Complete French file browser locale [\#48](https://github.com/OpenVoiceOS/ovos-skill-local-media/pull/48) ([goldyfruit](https://github.com/goldyfruit))
+
+## [0.2.13a3](https://github.com/OpenVoiceOS/ovos-skill-local-media/tree/0.2.13a3) (2026-01-19)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-local-media/compare/0.2.13a2...0.2.13a3)
+
 ## [0.2.13a2](https://github.com/OpenVoiceOS/ovos-skill-local-media/tree/0.2.13a2) (2026-01-19)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-local-media/compare/0.2.13a1...0.2.13a2)
