@@ -37,7 +37,7 @@ jobs:
           requirements: 'requirements-all.txt'
           fail: 'Copyleft,Other,Error'
           fails-only: true
-          exclude: '^(tqdm|ovos-skill-).*'
+          exclude: '^(tqdm|ovos-skill-local-media).*'
           exclude-license: '^(Mozilla).*$'
       - name: Print report
         if: ${{ always() }}
