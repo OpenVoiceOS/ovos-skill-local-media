@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.2.14a2](https://github.com/OpenVoiceOS/ovos-skill-local-media/tree/0.2.14a2) (2026-04-04)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-local-media/compare/0.2.14a1...0.2.14a2)
+
+**Merged pull requests:**
+
+- ci: modernize GitHub workflows [\#57](https://github.com/OpenVoiceOS/ovos-skill-local-media/pull/57) ([JarbasAl](https://github.com/JarbasAl))
+- fix\(i18n\): normalize locale folders to canonical BCP-47 [\#56](https://github.com/OpenVoiceOS/ovos-skill-local-media/pull/56) ([JarbasAl](https://github.com/JarbasAl))
+- Add Italian localization for local media terms [\#55](https://github.com/OpenVoiceOS/ovos-skill-local-media/pull/55) ([denics](https://github.com/denics))
+- Add Italian phrases for file explorer and USB browser [\#54](https://github.com/OpenVoiceOS/ovos-skill-local-media/pull/54) ([denics](https://github.com/denics))
+- Update Italian intents for file browser commands [\#53](https://github.com/OpenVoiceOS/ovos-skill-local-media/pull/53) ([denics](https://github.com/denics))
+- Revise skill.json for Italian locale [\#52](https://github.com/OpenVoiceOS/ovos-skill-local-media/pull/52) ([denics](https://github.com/denics))
+- Refactor Italian intents for file browser access [\#51](https://github.com/OpenVoiceOS/ovos-skill-local-media/pull/51) ([denics](https://github.com/denics))
+
 ## [0.2.14a1](https://github.com/OpenVoiceOS/ovos-skill-local-media/tree/0.2.14a1) (2026-03-24)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-local-media/compare/0.2.13a3...0.2.14a1)
