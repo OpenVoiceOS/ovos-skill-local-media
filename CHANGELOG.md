@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.2.14a3](https://github.com/OpenVoiceOS/ovos-skill-local-media/tree/0.2.14a3) (2026-04-09)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-local-media/compare/0.2.14a2...0.2.14a3)
+
+**Merged pull requests:**
+
+- chore\(ovos-skill-local-media\): allow ovos-workshop\<9.0.0 [\#59](https://github.com/OpenVoiceOS/ovos-skill-local-media/pull/59) ([JarbasAl](https://github.com/JarbasAl))
+
 ## [0.2.14a2](https://github.com/OpenVoiceOS/ovos-skill-local-media/tree/0.2.14a2) (2026-04-04)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-local-media/compare/0.2.14a1...0.2.14a2)
