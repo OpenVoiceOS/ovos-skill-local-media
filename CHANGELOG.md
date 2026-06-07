@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.2.15a1](https://github.com/OpenVoiceOS/ovos-skill-local-media/tree/0.2.15a1) (2026-06-07)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-local-media/compare/0.2.14a3...0.2.15a1)
+
+**Merged pull requests:**
+
+- fix\(deps\): allow ovos-bus-client 2.x \(widen cap to \<3.0.0\) [\#61](https://github.com/OpenVoiceOS/ovos-skill-local-media/pull/61) ([JarbasAl](https://github.com/JarbasAl))
+
 ## [0.2.14a3](https://github.com/OpenVoiceOS/ovos-skill-local-media/tree/0.2.14a3) (2026-04-09)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-local-media/compare/0.2.14a2...0.2.14a3)
