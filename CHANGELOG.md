@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.2.15a3](https://github.com/OpenVoiceOS/ovos-skill-local-media/tree/0.2.15a3) (2026-08-01)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-local-media/compare/0.2.15a2...0.2.15a3)
+
+**Merged pull requests:**
+
+- docs: rewrite README in Simplified Technical English [\#66](https://github.com/OpenVoiceOS/ovos-skill-local-media/pull/66) ([JarbasAl](https://github.com/JarbasAl))
+- fix\(da-DK\): add missing local\_media.voc [\#65](https://github.com/OpenVoiceOS/ovos-skill-local-media/pull/65) ([andlo](https://github.com/andlo))
+
 ## [0.2.15a2](https://github.com/OpenVoiceOS/ovos-skill-local-media/tree/0.2.15a2) (2026-07-12)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-local-media/compare/0.2.15a1...0.2.15a2)
