@@ -1,5 +1,15 @@
 # Changelog
 
+## [0.2.15a4](https://github.com/OpenVoiceOS/ovos-skill-local-media/tree/0.2.15a4) (2026-08-25)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-local-media/compare/0.2.15a3...0.2.15a4)
+
+**Merged pull requests:**
+
+- translate\(kab-DZ\): update skill.json [\#70](https://github.com/OpenVoiceOS/ovos-skill-local-media/pull/70) ([ovos-localize[bot]](https://github.com/apps/ovos-localize))
+- translate\(kab-DZ\): update open.file.browser.intent [\#69](https://github.com/OpenVoiceOS/ovos-skill-local-media/pull/69) ([ovos-localize[bot]](https://github.com/apps/ovos-localize))
+- translate\(kab-DZ\): update local\_media.voc [\#68](https://github.com/OpenVoiceOS/ovos-skill-local-media/pull/68) ([ovos-localize[bot]](https://github.com/apps/ovos-localize))
+
 ## [0.2.15a3](https://github.com/OpenVoiceOS/ovos-skill-local-media/tree/0.2.15a3) (2026-08-01)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-local-media/compare/0.2.15a2...0.2.15a3)
